@@ -4,11 +4,6 @@ body {
     padding: 0;
   }
   
-  header {
-    background-color: #001020;
-    color: #fff;
-    padding: 02px;
-  }
   header img{
     margin-left: 14px;
     width: 120px; 
@@ -42,7 +37,7 @@ body {
   
   nav a {
     text-decoration: none;
-    color: #fff;
+    color: #2c0909;
   }
   
   section.hero {
@@ -50,7 +45,7 @@ body {
     background-size: cover;
     background-position: center;
     text-align: center;
-    color: #fff;
+    color: #330303;
     padding: 100px 20px;
   }
   
